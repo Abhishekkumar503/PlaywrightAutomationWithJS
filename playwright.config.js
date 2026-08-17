@@ -35,7 +35,7 @@ const config = ({ // this one is calling at bottom
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-    Headers: 'true',
+    headless: true,
     browserName: 'chromium' // means chromw browser will launch
   },
 
