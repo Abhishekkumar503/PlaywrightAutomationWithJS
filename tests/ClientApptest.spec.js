@@ -11,8 +11,8 @@ test('Login Playwright test',async ({page}) =>
     console.log(await page.title())
     // Assertions
     await expect(page).toHaveTitle("Let's Shop")
-    await email.fill("anshika@gmail.com")
-    await password.fill("Iamking@000")
+    await email.fill("abis@gmail.com")
+    await password.fill("Login@123")
     await login.click()
     console.log(await cardTitles.first().textContent());
     console.log(await cardTitles.nth(1).textContent());
