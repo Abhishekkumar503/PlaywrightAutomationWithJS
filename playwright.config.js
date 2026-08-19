@@ -36,7 +36,9 @@ const config = ({ // this one is calling at bottom
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
     headless: true,
-    browserName: 'chromium' // means chromw browser will launch
+    browserName: 'chromium', // means chromw browser will launch
+    actionTimeout: 10 * 1000,
+    navigationTimeout: 30 * 1000,
   },
 
   /* Configure projects for major browsers */
