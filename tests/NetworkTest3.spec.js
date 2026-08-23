@@ -1,7 +1,7 @@
 const {test, expect} = require('@playwright/test'); // import playwright
  
 // Locators ( only is used for run this one test at one run)
-test.only('Login Playwright test',async ({page}) =>
+test('Login Playwright test',async ({page}) =>
 {
     // this will block all the css files from loading
     await page.route('**/*.css', route => route.abort());
