@@ -1,8 +1,7 @@
-const {test,expect} = require('@playwright/test')
+const { test, expect } = require('@playwright/test')
 
-test("Popup Validations",async ({page})=>
-{
-    
+test("Popup Validations", async ({ page }) => {
+
     await page.goto("https://rahulshettyacademy.com/AutomationPractice/")
 
     // Naviagations
@@ -37,4 +36,23 @@ test("Popup Validations",async ({page})=>
     const framePage = page.frameLocator("#courses-iframe");
     await framePage.locator("li a[href*='lifetime-access']:visible").click();
     console.log(await framePage.locator(".text h2").textContent());
+});
+
+
+test("Screenshots", async ({ page }) => {
+
+    await page.goto("https://rahulshettyacademy.com/AutomationPractice/")
+
+    await expect(page.locator("#displayed-text")).toBeVisible();
+    await page.locator("#displayed-text").screenshot({ path: 'partialScreenshot.png' })
+    await page.locator("#hide-textbox").click();
+
+    await page.screenshot({ path: 'screenshot.png' });
+    await expect(page.locator("#displayed-text")).toBeHidden();
+
+});
+
+test.only('Visual testing', async ({ page }) => {
+    await page.goto("https://playwright.dev");
+    expect(await page.screenshot()).toMatchSnapshot("landingPage.png");
 });
