@@ -52,7 +52,7 @@ test("Screenshots", async ({ page }) => {
 
 });
 
-test.only('Visual testing', async ({ page }) => {
+test('Visual testing', async ({ page }) => {
     await page.goto("https://playwright.dev");
     expect(await page.screenshot()).toMatchSnapshot("landingPage.png");
 });
