@@ -1,7 +1,7 @@
 const {test, expect} = require('@playwright/test'); // import playwright
 
 // Dropdown
-test('Login Playwright test',async ({page}) =>
+test(' @Web Login Playwright test',async ({page}) =>
 {
     const username = page.locator("#username");
     const password = page.locator('#password');

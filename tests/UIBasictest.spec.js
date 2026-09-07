@@ -2,7 +2,7 @@ const {test, expect} = require('@playwright/test'); // import playwright
 
 
 // testcase defination format with browser
-test('Browser Context Playwright test',async ({browser}) =>
+test(' @WebBrowser Context Playwright test',async ({browser}) =>
 {
     const context = await browser.newContext();
     const page = await context.newPage();
@@ -10,7 +10,7 @@ test('Browser Context Playwright test',async ({browser}) =>
 });
 
 // testcase defination format with page
-test('Page fixture Playwright test',async ({page}) =>
+test(' @Web Page fixture Playwright test',async ({page}) =>
 {
     await page.goto("https://rahulshettyacademy.com/practice")
     console.log(await page.title())

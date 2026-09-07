@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
+import { worker } from 'node:cluster';
 
 /**
  * Read environment variables from file.
@@ -18,14 +19,16 @@ const config = ({ // this one is calling at bottom
     expect: { // for expected timeout
       timeout: 40 * 1000
     },
+  retries: 1, // retry failed test cases once, if it fails again then it will be marked as failed
+  workers: 10, // 1 run tests in single thread, if we set it to 2 then it will run in 2 threads, if we set it to 3 then it will run in 3 threads and so on
   /* Run tests in files in parallel */
   fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
   /* Retry on CI only */
-  retries: process.env.CI ? 2 : 0,
+  // retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : undefined,
+  // workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
@@ -36,11 +39,11 @@ const config = ({ // this one is calling at bottom
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on', // retain-on-failure, off
     screenshot:'on',
-    // headless: true,
-    browserName: 'webkit', // means webkit browser will launch
+    headless: true, // means browser will launch in headless mode, if we set it to false then browser will launch in headed mode
+    browserName: 'chromium', // means browser will launch
     actionTimeout: 10 * 1000,
     navigationTimeout: 30 * 1000,
-    viewport: { width: 1280, height: 720 }, // set viewport size
+    // viewport: { width: 1280, height: 720 }, // set viewport size
     ignoreHTTPSErrors: true, // SSL certificate errors will be ignored
     permissions: ['geolocation'], // set permissions for the browser
     video: 'retain-on-failure', // record video of test execution
@@ -53,15 +56,15 @@ const config = ({ // this one is calling at bottom
       use: { ...devices['Desktop Chrome'] },
     },
 
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
+    // },
 
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
-    },
+    // {
+    //   name: 'webkit',
+    //   use: { ...devices['Desktop Safari'] },
+    // },
 
     /* Test against mobile viewports. */
     // {

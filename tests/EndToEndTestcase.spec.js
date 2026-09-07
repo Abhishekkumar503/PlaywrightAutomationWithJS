@@ -2,7 +2,7 @@ const {test, expect} = require('@playwright/test'); // import playwright
 const console = require('node:console');
  
 // End To End test 
-test('End to End test',async ({page}) =>
+test(' @WebEnd to End test',async ({page}) =>
 {
 
     const user = "abis@gmail.com";

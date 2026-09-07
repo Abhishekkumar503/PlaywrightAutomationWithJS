@@ -3,9 +3,11 @@ const { POManager } = require('./pageObject/POManager');
 const {customTest} = require('./utils/test-base'); // importing the test-base.js file to use the customTest with fixture data set    
 const testData = JSON.parse(JSON.stringify(require('./utils/paceOrderTestData.json'))); // parsing the json file to get the data for multiple data sets
 
+test.describe.configure({ mode: 'serial' }); // to run the tests in parallel/serial mode
+
 for(const data of testData) // for multiple data sets, we can use for loop to run the same test with different data
 {
-test(`Login Playwright test with Page object for ${data.productName}`, async ({ page }) => {
+test(` @Web Login Playwright test with Page object for ${data.productName}`, async ({ page }) => {
 
     const pomanager = new POManager(page);
 
@@ -30,7 +32,7 @@ test(`Login Playwright test with Page object for ${data.productName}`, async ({ 
 });
 }
 
-customTest(`Login Playwright test with Page object with FixtureDataSet`, async ({ page, testDataForOrder }) => {
+customTest(` @WebLogin Playwright test with Page object with FixtureDataSet`, async ({ page, testDataForOrder }) => {
 
     const pomanager = new POManager(page);
 
