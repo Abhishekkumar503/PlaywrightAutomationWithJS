@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 const writeExcel = require('./ExcelExample');
 
-test.only('upload downlaod excel validation', async ({ page }) => {
+test('upload downlaod excel validation', async ({ page }) => {
     const textSearch = 'Mango';
     const updateValue = '350';
     await page.goto("https://rahulshettyacademy.com/upload-download-test/");
