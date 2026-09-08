@@ -21,16 +21,25 @@ const config = ({ // this one is calling at bottom
     },
   retries: 1, // retry failed test cases once, if it fails again then it will be marked as failed
   workers: 10, // 1 run tests in single thread, if we set it to 2 then it will run in 2 threads, if we set it to 3 then it will run in 3 threads and so on
+
   /* Run tests in files in parallel */
   fullyParallel: true,
+
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
+
   /* Retry on CI only */
   // retries: process.env.CI ? 2 : 0,
+
   /* Opt out of parallel tests on CI. */
   // workers: process.env.CI ? 1 : undefined,
+
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  reporter: 'html',
+  // reporter: [
+  //   ['line'],
+  //   ['allure-playwright']
+  // ],
+  repoprter: [['html']],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('')`. */
