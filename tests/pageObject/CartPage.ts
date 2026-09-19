@@ -1,5 +1,5 @@
 const { expect } = require("@playwright/test");
-class CartPage {
+exports class CartPage {
     constructor(page) {
         this.page = page;
         this.Checkout = page.getByRole("button", { name: "Checkout" });

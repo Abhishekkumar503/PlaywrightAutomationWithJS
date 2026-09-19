@@ -1,5 +1,5 @@
-const { expect } = require("@playwright/test");
-class OrderPlacedPage {
+import { expect } from "@playwright/test";
+exports class OrderPlacedPage {
 
     constructor(page) {
         this.page = page;

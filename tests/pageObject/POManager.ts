@@ -1,7 +1,7 @@
-const { LoginPage } = require('./LoginPage');
-const { DashboardPage } = require('./DashboardPage');
-const { CartPage } = require('./CartPage');
-const { OrderPlacedPage } = require('./OrderPlacedPage');
+import { DashboardPage } from './DashboardPage';
+import { DashboardPage } from './DashboardPage';
+import { CartPage } from './CartPage';
+import { OrderPlacedPage } from './OrderPlacedPage';
 
 class POManager
 {
