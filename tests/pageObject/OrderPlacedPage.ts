@@ -1,12 +1,15 @@
-import { expect } from "@playwright/test";
-exports class OrderPlacedPage {
+import { expect , Page , Locator } from "@playwright/test";
+export class OrderPlacedPage {
 
-    constructor(page) {
+    page : Page;
+    orderPlaceButton : Locator;
+
+    constructor(page : Page) {
         this.page = page;
         this.orderPlaceButton = page.getByText("PLACE ORDER");
     }
 
-    async selectCountry(countryName) {
+    async selectCountry(countryName : string) {
         await this.page.getByPlaceholder("Select Country").pressSequentially(countryName); // this will use to type one by one
         await this.page.getByRole("button", { name: countryName }).nth(1).click();
     }
@@ -18,9 +21,4 @@ exports class OrderPlacedPage {
     async validateMessage() {
         await expect(this.page.getByText("Thankyou for the order.")).toBeVisible();
     }
-
-
-
-
 }
-module.exports = { OrderPlacedPage }

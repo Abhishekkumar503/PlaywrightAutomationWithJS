@@ -1,12 +1,19 @@
-import { DashboardPage } from './DashboardPage';
+import { LoginPage } from './LoginPage';
 import { DashboardPage } from './DashboardPage';
 import { CartPage } from './CartPage';
 import { OrderPlacedPage } from './OrderPlacedPage';
+import { Page } from '@playwright/test';
 
-class POManager
+export class POManager
 {
 
-    constructor(page)
+    loginPage : LoginPage;
+    dashboardPage : DashboardPage;
+    cartPage : CartPage;
+    orderPlacedPage : OrderPlacedPage;
+    page : Page;
+
+    constructor(page : any)
     {
         this.page = page;
         this.loginPage = new LoginPage(page);
@@ -35,5 +42,3 @@ class POManager
         return this.orderPlacedPage;
     }
 }
-
-module.exports = { POManager }

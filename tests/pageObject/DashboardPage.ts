@@ -1,5 +1,12 @@
-exports class DashboardPage {
-    constructor(page) {
+import { Page , Locator } from "@playwright/test";
+
+export class DashboardPage {
+
+    products : Locator;
+    productsText : Locator;
+    cart : Locator;
+
+    constructor(page : Page) {
         this.products = page.locator(".card-body");
         this.productsText = page.locator(".card-body b");
         this.cart = page.locator("[routerlink*='cart']");
@@ -9,7 +16,7 @@ exports class DashboardPage {
         await this.products.first().waitFor();
     }
 
-    async searchProduct(productName) {
+    async searchProduct(productName : string) {
         console.log(await this.productsText.allTextContents());
         const product = await this.products.filter({ hasText: productName });
 
@@ -22,4 +29,3 @@ exports class DashboardPage {
         await this.cart.click();
     }
 }
-module.exports = { DashboardPage };

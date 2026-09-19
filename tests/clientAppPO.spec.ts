@@ -1,7 +1,7 @@
-const { test, expect } = require('@playwright/test');
-const { POManager } = require('./pageObject/POManager');
-const {customTest} = require('./utils/test-base'); // importing the test-base.js file to use the customTest with fixture data set    
-const testData = JSON.parse(JSON.stringify(require('./utils/paceOrderTestData.json'))); // parsing the json file to get the data for multiple data sets
+import { test, expect } from '@playwright/test';
+import { POManager } from './pageObject/POManager';
+import {customTest} from './utils/test-base'; // importing the test-base.js file to use the customTest with fixture data set    
+import testData from './utils/paceOrderTestData.json' with { type: 'json' }; // importing the json file to get the data for multiple data sets
 
 test.describe.configure({ mode: 'serial' }); // to run the tests in parallel/serial mode
 
@@ -19,7 +19,7 @@ test(` @Web Login Playwright test with Page object for ${data.productName}`, asy
     await dashboardPage.waitForDashboard();
     await dashboardPage.searchProduct(data.productName);
     await dashboardPage.navigateToCart();
-
+s
     const cartPage = pomanager.cartPage;
     await cartPage.waitforLoadCartPage();
     await cartPage.validateProductOnCartPage(data.productName);
