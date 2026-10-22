@@ -1,0 +1,576 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: IN
+        - button "Skip navigation" [ref=e20] [cursor=pointer]
+      - generic [ref=e24]:
+        - search [ref=e25]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: Aske by Karan Aujla
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=e431]:
+        - button "Settings" [ref=e436] [cursor=pointer]
+        - link "Sign in" [ref=e442] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253D3j7bhOvW6jw%2526list%253DRDPd1yGW_g2T8%2526index%253D2%2526pp%253DQAFIAQ%25253D%25253D&hl=en-GB&ec=65620
+  - generic [ref=e52]:
+    - text: • • • · • • • • • • • • • • • • • • •
+    - main [ref=e1385]:
+      - generic [ref=e1386]:
+        - generic [ref=e1388]:
+          - generic [ref=e1391]:
+            - generic [aria-hidden] [ref=e1394] [cursor=pointer]
+            - complementary [ref=e1395]:
+              - generic "YouTube Video Player" [active] [ref=e1398]:
+                - generic [ref=e2496]:
+                  - generic:
+                    - generic [ref=e2498] [cursor=pointer]:
+                      - generic [ref=e2500]:
+                        - generic "Uber | First Ride Free" [ref=e2501]
+                        - generic "p.uber.com" [ref=e2502]
+                      - link "Book now This link opens in new tab" [ref=e2503]:
+                        - generic [ref=e2504]: Book now
+                    - generic [ref=e2505]:
+                      - generic "Sponsored" [ref=e2507]
+                      - button "My Ad Centre" [ref=e2509] [cursor=pointer]
+                      - link "p.uber.com This link opens in new tab" [ref=e2511]:
+                        - generic [ref=e2512] [cursor=pointer]: p.uber.com
+                    - button "Skip" [ref=e2513] [cursor=pointer]
+                - generic: फॉर मिसेस स्ट्रेटजी
+                - generic [ref=e1400]:
+                  - slider "Seek slider" [disabled] [ref=e1402]
+                  - generic [ref=e1413]:
+                    - generic [ref=e1414]:
+                      - button "Pause (k)" [ref=e1415] [cursor=pointer]
+                      - button "Previous keyboard shortcut SHIFT+p" [ref=e2522] [cursor=pointer]
+                      - button "Next (SHIFT+n)" [ref=e1417] [cursor=pointer]
+                      - generic [ref=e1418]:
+                        - button "Mute (m)" [ref=e2523] [cursor=pointer]
+                        - slider "Volume":
+                          - generic [ref=e1421] [cursor=pointer]
+                      - button "0 Minutes 2 Seconds of 0 Minutes 15 Seconds" [ref=e2524] [cursor=pointer]: 0:02 / 0:15
+                    - generic [ref=e1425]:
+                      - generic [ref=e1426]:
+                        - button "Subtitles/closed captions unavailable" [pressed] [ref=e1427] [cursor=pointer]
+                        - button "Settings" [ref=e1429] [cursor=pointer]
+                      - generic [ref=e1430]:
+                        - button "Cinema mode (t)" [ref=e1431] [cursor=pointer]
+                        - button "Full screen (f)" [ref=e1432] [cursor=pointer]
+          - generic [ref=e1433]:
+            - generic [ref=e1434]:
+              - generic [ref=e1436]:
+                - heading "LOW FADE (Music Video) KARAN AUJLA" [level=1] [ref=e2525]
+                - generic [ref=e1440]:
+                  - generic [ref=e1441]:
+                    - generic [ref=e1442]:
+                      - link [ref=e1443] [cursor=pointer]:
+                        - /url: /@KaranAujlaOfficial
+                        - img "Karan Aujla" [ref=e1445]
+                      - generic [ref=e1446]:
+                        - generic [ref=e1447]:
+                          - generic "Karan Aujla" [ref=e1450]:
+                            - link "Karan Aujla" [ref=e1451] [cursor=pointer]:
+                              - /url: /channel/UC3XBkDeCVXCoCofFgfUZXGw
+                          - img "Official Artist Channel" [ref=e1456]
+                        - generic "6.06 million subscribers" [ref=e1460]: 6.06m subscribers
+                    - button "Subscribe to Karan Aujla." [ref=e1466] [cursor=pointer]:
+                      - generic: Subscribe
+                  - generic [ref=e1473]:
+                    - generic [ref=e1474]:
+                      - generic [ref=e2529]:
+                        - button "like this video along with 535,465 other people" [ref=e2533] [cursor=pointer]:
+                          - generic: 535k
+                        - button "Dislike this video" [ref=e2540] [cursor=pointer]
+                      - button "Share" [ref=e2546] [cursor=pointer]
+                    - generic [ref=e1499]:
+                      - generic [ref=e2551]:
+                        - button [disabled] [ref=e2553]
+                        - tooltip "tooltip"
+                      - button "Save to playlist" [ref=e2556] [cursor=pointer]
+                    - button "More actions" [ref=e1511] [cursor=pointer]
+                - generic [ref=e1515]:
+                  - generic [ref=e1517] [cursor=pointer]:
+                    - generic [ref=e1518]:
+                      - generic [ref=e1519]: 72m views 4 mo ago
+                      - tooltip "tooltip"
+                    - generic [ref=e1522]:
+                      - generic [ref=e1523]:
+                        - generic [ref=e1524]: Karan Aujla & Sandeep Rehaan Present
+                        - generic: …
+                      - button "more" [ref=e1527]
+                  - button "Live chat replay" [ref=e2561] [cursor=pointer]:
+                    - heading "Live chat replay" [level=2] [ref=e2565]
+                    - generic "Live chat replay" [ref=e2568]:
+                      - generic [ref=e2569]:
+                        - generic [ref=e2573]: See what others said about this video while it was live.
+                        - button "Open panel" [ref=e2575]
+              - text: •
+              - generic [ref=e1548]:
+                - generic [ref=e1549]:
+                  - heading "Karan Aujla – Event tickets" [level=1] [ref=e1550]
+                  - complementary [ref=e1551] [cursor=pointer]
+                  - tooltip "tooltip"
+                - generic [ref=e1555]:
+                  - generic [ref=e1556]:
+                    - link "Nov 18" [ref=e1557] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                      - generic [ref=e1558]: Nov
+                      - generic [ref=e1560]: "18"
+                    - generic [ref=e1562]:
+                      - generic [ref=e1563]:
+                        - link "Nearest event · New York, NY, United States" [ref=e1564] [cursor=pointer]:
+                          - /url: javascript:void(0)
+                        - generic [ref=e1565]: Wed 19:00 · Madison Square Garden
+                        - link "Ticketmaster" [ref=e1566] [cursor=pointer]:
+                          - /url: https://www.youtube.com/redirect?event=ticket_shelf&redir_token=QUlxb01IWmM1MFgwNkxBOEltV0VzcFl5amE0YnxBSTVJdTV1MUFFbGczck5ETzhURjByYXloZ1Q0djNUYm9vSnZ5bHBlLXNtRnJOaDdoT19sSDZmMDFHcHpoU0cwLXgtMzUzYkZnbjRvX2NRY1d4QW1rX2pzMWQxY0xXbFg1OEdp&q=https%3A%2F%2Fwww.bandsintown.com%2Ft%2F108909437%3Fticket_id%3D2053214986%26app_id%3Dyt_feed%26came_from%3D286%26utm_medium%3Dweb%26utm_source%3Dyt_feed%26utm_campaign%3Dticket
+                      - link [ref=e1567] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                  - table [ref=e1573] [cursor=pointer]:
+                    - row [ref=e1574]:
+                      - cell "7 Nov" [ref=e1575]
+                      - cell
+                      - cell "Sacramento, CA, United States · Golden 1 Center · Ticketmaster" [ref=e1577]:
+                        - generic [ref=e1579]:
+                          - generic [ref=e1580]: Sacramento, CA, United States · Golden 1 Center
+                          - generic [ref=e1581]: ·
+                          - link [ref=e1582]:
+                            - /url: javascript:void(0)
+                    - row [ref=e1586]:
+                      - cell "9 Nov" [ref=e1587]
+                      - cell
+                      - cell "Los Angeles, CA, United States · Crypto.com Arena · Ticketmaster" [ref=e1589]:
+                        - generic [ref=e1591]:
+                          - generic [ref=e1592]: Los Angeles, CA, United States · Crypto.com Arena
+                          - generic [ref=e1593]: ·
+                          - link [ref=e1594]:
+                            - /url: javascript:void(0)
+                    - row [ref=e1598]:
+                      - cell "13 Nov" [ref=e1599]
+                      - cell
+                      - cell "Dallas, TX, United States · American Airlines Center · Ticketmaster" [ref=e1601]:
+                        - generic [ref=e1603]:
+                          - generic [ref=e1604]: Dallas, TX, United States · American Airlines Center
+                          - generic [ref=e1605]: ·
+                          - link [ref=e1606]:
+                            - /url: javascript:void(0)
+                - button "Show more" [ref=e1611] [cursor=pointer]
+            - heading "Comments" [level=2] [ref=e2582]
+        - generic [ref=e1616]:
+          - generic [ref=e1621]:
+            - generic [ref=e1622]:
+              - 'heading "Next: Winning Speech (Music Video) Karan Aujla | Mxrci | Latest Punjabi Songs 2024 3 minutes, 58 seconds" [level=3] [ref=e2654]':
+                - generic [ref=e1624]: "Next:"
+                - generic "Winning Speech (Music Video) Karan Aujla | Mxrci | Latest Punjabi Songs 2024 3 minutes, 58 seconds" [ref=e2655]: Winning Speech (Music Video) Karan Aujla | Mxrci | Latest Punjabi Songs 2024
+              - generic [ref=e1626]:
+                - generic "Mix – Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1" [ref=e1627]
+                - text: "-"
+            - button "Expand" [ref=e1629] [cursor=pointer]
+          - generic [ref=e1633]:
+            - generic [ref=e2664] [cursor=pointer]:
+              - generic "Sponsored – Uber | First Ride Free p.uber.com" [ref=e2666]:
+                - button "Uber" [ref=e2670]
+                - generic [ref=e2673]:
+                  - generic [ref=e2674]: Uber | First Ride Free
+                  - generic [ref=e2675]:
+                    - generic [ref=e2677]:
+                      - generic [ref=e2678]: Sponsored
+                      - text: ·
+                    - generic [ref=e2679]: p.uber.com
+              - link "Book now" [ref=e2682]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C920x2CTaatxjvenaug_xweSZCpKlmfiJAcr50PbLFrCQHxABIABg5arlg6wOggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbq8g8QDqAMEqgTdA0_QdsQwcTXK7f5YI4vMihtaQ8IR6XvISvD7FYVzpjf7-WKlZLcTbBjAK0MpFEqeB5RBIf2z_Mv6iAAjyB6U6wSIj74itYN1Q0dIH4dZh1PV6mHDDxh5xczusGf4mxJtXJJpnpm4ZxPrjb12Do9bHjZMrSiMbGIagBNYFxtehWggxyANkFw1psCTg3Zk7Z5gis5LOOWmUmC0Txj3Uem_ZK4-cg9JOUzSdINMoZb1Rq-5w9BvEnfP79P951EOG-C2TBSMIf1Qe-zz6EFGsH4kko4xn-S_eyfh7kVmUWsn07zzoJ9E5bVNA9CkTHf4KIYfcEhkwtO5RT2h92Z6y_xe7OT4mWGwXmD70z163_trG0RXlgZlY39gaNmZCTEJ5L6sdllI0dGynNlryMyBOVSIr57nnuPukFNGjhhnpZEAGgWBgyv0XXAVds_h8SvtgTSVHV2ALGhKPOIXo8jV0GXMlTPp7vkEGoTb6iB859kiJUQZuvgjwQjgPPNgFSlkx953WWlAcZe2cfYDv6k14SYlDByiTjOS2cotzLl7f1pXfdUDLMZ4Re7-oGGT7B9M24R0JKzun5ZC61o5DwawyYp5uZYH_OvdeqNAR2WN9eHOOOcszEWX00xssbaQiusvG4gF-9nXqFqgBlSAB4Sy_l6QBwSoB-rusQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHvOqxAqgH_K-xAqgHvtmxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLS3RROFBUa3ZFeXOoCAHSCC4IgEEQARheMgKCAjoPgGOAwICAgICAgAKqgIAYSNmg0jVQFFioksTl8c2XA2AB8ggfY2EteXQtaG9zdC1wdWItNjUyMDI2NjYxOTQ1MTEwMpoJGmh0dHBzOi8vcC51YmVyLmNvbS9yaWRlbm93sQnhjGEKTU5Iv8gJGMgJjwHICcIBoQvHzcuhFStva7oLRggBEAEYBiABKAEwEEABSAFgAGgAcAKIAQCYAQGiARIKABgAIABYAWAAcAGoAgHYAgLYAQGAAgGIAge6Awl2aXRwZXphYWHQCxPgCwHSDAIQAdoMJQoKEODtnfS318PmMRICAQMaDRj72deoWiC2s53y5AVAAUoCEB-aDQETqg0CSU7IDQHSDZMEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL04xOTc4MDEuMTU5Mzc1WU9VVFVCRS5DT00vQjM3MDA5NzQ5LjQ1OTI4MTY2OTtkY190cmtfYWlkPTY1MzU0NDIzOTtkY190cmtfY2lkPTI2NTE5MDczNDtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNEQkNQLWwzeVJRTC1sZ3NaWVdiaHNOeTVmWkIzWGVSOXBMT2thUk5vdWpjbVVlT0pkUGR6Y1lFSzFkNUI4Q1F4ZXRva3ROX1l2S21FSGRiUTtkY19wdWJpZD0yP2h0dHBzOi8vcC51YmVyLmNvbS9yaWRlbm93P3V0bV9jYW1wYWlnbj1DTTI4NjQxMDctdmlkLWF1Y19JTi1NdWx0aUNpdHlfci1tb3RvLWF1dG9faW9zLWFuZC13ZWJfYnJhX2VuX0dDUjI2QTEyM18yNlE0XzE4LTM0LU1GLVQ3LVZSQy1URl9ZVF9QTzY1NDczOSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MjQ0NTE0MDQzuBP___________8BiBQCsBQBwBXJgIBA0BUB2BUBkBYBmBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRegRLfTxTLgOboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI3K_E5fHNlwMVvbRWAR3xIDmjEAEYASAAEgIXgPD_BwE&num=1&cid=CAASwgHkaG-DbX7D9psU032p96AwgXX32-UQ0HIJvbodFJ_gjLPLV-mOUak_odkONE7fTI29Na0uuRkjXh_dZteBFMPpxFI00FfGTf3BAoYyy3zKuDDvmaEDrJt5HW-w8RlXlnszpKPiNPkRaVwAy3sdIBUm09gguGRSHwOf9ZUGKL3VDugqZiv8kwfy3CBoyivAskyTWxtKEdgz_DMLaWcWv6Pd4wBkP6pwIFVnuL6QiwC-3RC3IZ3yPcVhrHBk8AMZRPH3Nw&ad_cpn=%5BAD_CPN%5D&sig=AOD64_3OWh1sA1HzKTelEe_VSaY3FhT3uQ&label=video_click_to_advertiser_site&ctype=110&ms=%5BCLICK_MS%5D&adclksrc=%5BCLICK_SOURCE%5D
+              - button "My Ad Centre" [ref=e2688]
+            - generic [ref=e1637]:
+              - generic [ref=e2693] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2694]:
+                  - /url: /watch?v=pLGRaZpNO5Y&list=RDpLGRaZpNO5Y&start_radio=1&pp=oAcB
+                  - img [ref=e2700]:
+                    - generic [aria-hidden] [ref=e2704]: 4:20
+                - generic [ref=e2706]:
+                  - generic [ref=e2707]:
+                    - heading "BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP" [level=3] [ref=e2708]:
+                      - link "BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP 4 minutes, 20 seconds" [ref=e2709]:
+                        - /url: /watch?v=pLGRaZpNO5Y&list=RDpLGRaZpNO5Y&start_radio=1&pp=oAcB
+                        - text: BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP
+                    - generic [ref=e2711]:
+                      - group [ref=e2712]:
+                        - generic [ref=e2713]: Parmish Verma
+                        - generic "Official Artist Channel" [ref=e2714]
+                      - group [ref=e2717]:
+                        - generic "5.6 million views" [ref=e2721]: 5.6m
+                        - generic "11 days ago" [ref=e2722]
+                  - button "More actions" [ref=e2725]
+              - generic [ref=e2730] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2731]:
+                  - /url: /watch?v=xvT1jH8B9AM&list=RDxvT1jH8B9AM&start_radio=1&pp=oAcB
+                  - img [ref=e2737]:
+                    - generic [aria-hidden] [ref=e2741]: 4:48
+                - generic [ref=e2743]:
+                  - generic [ref=e2744]:
+                    - heading "KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO | ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL |" [level=3] [ref=e2745]:
+                      - link "KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO | ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL | 4 minutes, 48 seconds" [ref=e2746]:
+                        - /url: /watch?v=xvT1jH8B9AM&list=RDxvT1jH8B9AM&start_radio=1&pp=oAcB
+                        - text: KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO | ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL |
+                    - generic [ref=e2748]:
+                      - group [ref=e2749]:
+                        - generic [ref=e2750]: MONEY VERSE RECORDS
+                        - generic: and ARJN
+                        - generic "Official Artist Channel" [ref=e2751]
+                      - group [ref=e2754]:
+                        - generic "276 million views" [ref=e2758]: 276m
+                        - generic "3 months ago" [ref=e2759]: 3 mo ago
+                  - button "More actions" [ref=e2762]
+              - generic [ref=e2767] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2768]:
+                  - /url: /watch?v=4DfVxVeqk2o&list=PLt1EeWuM-k-ZLNYXJsU4qKnvUGYQf0bys&pp=8AUB0gcJCVMDOCosWNin
+                  - generic [ref=e2770]: 31 videos
+                - generic [ref=e2785]:
+                  - heading "Punjabi Songs" [level=3] [ref=e2786]:
+                    - link "Punjabi Songs" [ref=e2787]:
+                      - /url: /watch?v=4DfVxVeqk2o&list=PLt1EeWuM-k-ZLNYXJsU4qKnvUGYQf0bys&pp=8AUB0gcJCVMDOCosWNin
+                  - generic [ref=e2789]:
+                    - group [ref=e2790]:
+                      - link "Akshay Rathore" [ref=e2793]:
+                        - /url: /@akshayrathore2105
+                      - link "Playlist" [ref=e2796]:
+                        - /url: /@akshayrathore2105
+                    - group [ref=e2797]:
+                      - link "View full playlist" [ref=e2800]:
+                        - /url: /playlist?list=PLt1EeWuM-k-ZLNYXJsU4qKnvUGYQf0bys
+              - generic [ref=e2802] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2803]:
+                  - /url: /watch?v=rXLcHtVbtJE&list=RDrXLcHtVbtJE&start_radio=1&pp=oAcB
+                  - img [ref=e2809]:
+                    - generic [aria-hidden] [ref=e2813]: 2:36
+                - generic [ref=e2815]:
+                  - generic [ref=e2816]:
+                    - heading "IYKYK (Visualizer) - Jxggi, Dishant, Sickboi | Inferno" [level=3] [ref=e2817]:
+                      - link "IYKYK (Visualizer) - Jxggi, Dishant, Sickboi | Inferno 2 minutes, 36 seconds" [ref=e2818]:
+                        - /url: /watch?v=rXLcHtVbtJE&list=RDrXLcHtVbtJE&start_radio=1&pp=oAcB
+                        - text: IYKYK (Visualizer) - Jxggi, Dishant, Sickboi | Inferno
+                    - generic [ref=e2820]:
+                      - group [ref=e2821]:
+                        - generic [ref=e2822]: Jxggi
+                        - generic "Official Artist Channel" [ref=e2823]
+                      - group [ref=e2826]:
+                        - generic "25 million views" [ref=e2830]: 25m
+                        - generic "2 months ago" [ref=e2831]: 2 mo ago
+                  - button "More actions" [ref=e2834]
+              - generic [ref=e2839] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2840]:
+                  - /url: /watch?v=fjrJU2rRiH0&list=RDfjrJU2rRiH0&start_radio=1&pp=oAcB
+                  - img [ref=e2846]:
+                    - generic [aria-hidden] [ref=e2850]: 3:00
+                - generic [ref=e2852]:
+                  - generic [ref=e2853]:
+                    - 'heading "Karan aujla for new song #viral #song" [level=3] [ref=e2854]':
+                      - 'link "Karan aujla for new song #viral #song 3 minutes" [ref=e2855]':
+                        - /url: /watch?v=fjrJU2rRiH0&list=RDfjrJU2rRiH0&start_radio=1&pp=oAcB
+                        - text: "Karan aujla for new song #viral #song"
+                    - generic [ref=e2857]:
+                      - group [ref=e2858]:
+                        - generic [ref=e2859]: bike clinic
+                      - group [ref=e2860]:
+                        - generic "6 views" [ref=e2864]: "6"
+                        - generic "10 days ago" [ref=e2865]
+                  - button "More actions" [ref=e2868]
+              - generic [ref=e2873] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2874]:
+                  - /url: /watch?v=YOQLbW9NeBM&list=RDYOQLbW9NeBM&start_radio=1&pp=oAcB
+                  - img [ref=e2880]:
+                    - generic [aria-hidden] [ref=e2884]: 3:04
+                - generic [ref=e2886]:
+                  - generic [ref=e2887]:
+                    - heading "Banda Bamb (Official Music Video) Jordan Sandhu | Latest Punjabi Songs 2025" [level=3] [ref=e2888]:
+                      - link "Banda Bamb (Official Music Video) Jordan Sandhu | Latest Punjabi Songs 2025 3 minutes, 4 seconds" [ref=e2889]:
+                        - /url: /watch?v=YOQLbW9NeBM&list=RDYOQLbW9NeBM&start_radio=1&pp=oAcB
+                        - text: Banda Bamb (Official Music Video) Jordan Sandhu | Latest Punjabi Songs 2025
+                    - generic [ref=e2891]:
+                      - group [ref=e2892]:
+                        - generic [ref=e2893]: Jordan Sandhu
+                        - generic "Official Artist Channel" [ref=e2894]
+                      - group [ref=e2897]:
+                        - generic "122 million views" [ref=e2901]: 122m
+                        - generic "1 year ago" [ref=e2902]: 1 yr ago
+                  - button "More actions" [ref=e2905]
+              - generic [ref=e2910] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2911]:
+                  - /url: /watch?v=vRjaGgDsWSo&list=RDvRjaGgDsWSo&start_radio=1&pp=oAcB0gcJCTYMAYcqIYzv
+                  - img [ref=e2917]:
+                    - generic [aria-hidden] [ref=e2921]: 3:06
+                - generic [ref=e2923]:
+                  - generic [ref=e2924]:
+                    - heading "Casa Tupka Anthemo | @Yo Yo Honey Singh feat. Priyanshi | Full Video" [level=3] [ref=e2925]:
+                      - link "Casa Tupka Anthemo | @Yo Yo Honey Singh feat. Priyanshi | Full Video 3 minutes, 6 seconds" [ref=e2926]:
+                        - /url: /watch?v=vRjaGgDsWSo&list=RDvRjaGgDsWSo&start_radio=1&pp=oAcB0gcJCTYMAYcqIYzv
+                        - text: Casa Tupka Anthemo | @Yo Yo Honey Singh feat. Priyanshi | Full Video
+                    - generic [ref=e2928]:
+                      - group [ref=e2929]:
+                        - generic [ref=e2930]: Yo Yo Honey Singh
+                        - generic "Official Artist Channel" [ref=e2931]
+                      - group [ref=e2934]:
+                        - generic "150 million views" [ref=e2938]: 150m
+                        - generic "1 month ago" [ref=e2939]: 1 mo ago
+                  - button "More actions" [ref=e2942]
+              - generic [ref=e2947] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2948]:
+                  - /url: /watch?v=_ijaEtNzZgw&list=RD_ijaEtNzZgw&start_radio=1&pp=oAcB0gcJCTYMAYcqIYzv
+                  - img [ref=e2954]:
+                    - generic [aria-hidden] [ref=e2958]: 4:23
+                - generic [ref=e2960]:
+                  - generic [ref=e2961]:
+                    - heading "Maruti (Official Video) Dhanda Nyoliwala | Miki Malang | Ron Likhari" [level=3] [ref=e2962]:
+                      - link "Maruti (Official Video) Dhanda Nyoliwala | Miki Malang | Ron Likhari 4 minutes, 23 seconds" [ref=e2963]:
+                        - /url: /watch?v=_ijaEtNzZgw&list=RD_ijaEtNzZgw&start_radio=1&pp=oAcB0gcJCTYMAYcqIYzv
+                        - text: Maruti (Official Video) Dhanda Nyoliwala | Miki Malang | Ron Likhari
+                    - generic [ref=e2965]:
+                      - group [ref=e2966]:
+                        - generic [ref=e2967]: Dhanda Nyoliwala
+                        - generic "Official Artist Channel" [ref=e2968]
+                      - group [ref=e2971]:
+                        - generic "97 million views" [ref=e2975]: 97m
+                        - generic "1 year ago" [ref=e2976]: 1 yr ago
+                  - button "More actions" [ref=e2979]
+              - generic [ref=e2984] [cursor=pointer]:
+                - link [aria-hidden] [ref=e2985]:
+                  - /url: /watch?v=UiVErlUAi_U&list=RDUiVErlUAi_U&start_radio=1&pp=oAcB
+                  - img [ref=e2991]:
+                    - generic [aria-hidden] [ref=e2995]: 3:13
+                - generic [ref=e2997]:
+                  - generic [ref=e2998]:
+                    - heading "12 Saal | Bilal Saeed | Twelve | Punjabi Songs | Speed Records" [level=3] [ref=e2999]:
+                      - link "12 Saal | Bilal Saeed | Twelve | Punjabi Songs | Speed Records 3 minutes, 13 seconds" [ref=e3000]:
+                        - /url: /watch?v=UiVErlUAi_U&list=RDUiVErlUAi_U&start_radio=1&pp=oAcB
+                        - text: 12 Saal | Bilal Saeed | Twelve | Punjabi Songs | Speed Records
+                    - generic [ref=e3002]:
+                      - group [ref=e3003]:
+                        - generic [ref=e3004]: Speed Records
+                        - generic "Verified" [ref=e3005]
+                      - group [ref=e3008]:
+                        - generic "86 million views" [ref=e3012]: 86m
+                        - generic "13 years ago" [ref=e3013]: 13 yr ago
+                  - button "More actions" [ref=e3016]
+              - generic [ref=e3021] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3022]:
+                  - /url: /watch?v=x9RC77Oc-0Q&list=RDx9RC77Oc-0Q&start_radio=1&pp=oAcB
+                  - img [ref=e3028]:
+                    - generic [aria-hidden] [ref=e3032]: 3:15
+                - generic [ref=e3034]:
+                  - generic [ref=e3035]:
+                    - heading "5-7 (Music Video) Karan Aujla | Mxrci | Alankriitaa Sahai | Rehaan Records | Punjabi Songs 2026" [level=3] [ref=e3036]:
+                      - link "5-7 (Music Video) Karan Aujla | Mxrci | Alankriitaa Sahai | Rehaan Records | Punjabi Songs 2026 3 minutes, 15 seconds" [ref=e3037]:
+                        - /url: /watch?v=x9RC77Oc-0Q&list=RDx9RC77Oc-0Q&start_radio=1&pp=oAcB
+                        - text: 5-7 (Music Video) Karan Aujla | Mxrci | Alankriitaa Sahai | Rehaan Records | Punjabi Songs 2026
+                    - generic [ref=e3039]:
+                      - group [ref=e3040]:
+                        - generic [ref=e3041]: Rehaan Records
+                        - generic "Verified" [ref=e3042]
+                      - group [ref=e3045]:
+                        - generic "72 million views" [ref=e3049]: 72m
+                        - generic "8 months ago" [ref=e3050]: 8 mo ago
+                  - button "More actions" [ref=e3053]
+              - generic [ref=e3058] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3059]:
+                  - /url: /watch?v=nMozMETeCyw&list=RDnMozMETeCyw&start_radio=1&pp=oAcB
+                  - img [ref=e3065]:
+                    - generic [aria-hidden] [ref=e3069]: 5:13
+                - generic [ref=e3071]:
+                  - generic [ref=e3072]:
+                    - heading "Kath Lagda - Navaan Sandhu ft Dhanda Nyoliwala ( Official Music Video )" [level=3] [ref=e3073]:
+                      - link "Kath Lagda - Navaan Sandhu ft Dhanda Nyoliwala ( Official Music Video ) 5 minutes, 13 seconds" [ref=e3074]:
+                        - /url: /watch?v=nMozMETeCyw&list=RDnMozMETeCyw&start_radio=1&pp=oAcB
+                        - text: Kath Lagda - Navaan Sandhu ft Dhanda Nyoliwala ( Official Music Video )
+                    - generic [ref=e3076]:
+                      - group [ref=e3077]:
+                        - generic [ref=e3078]: Navaan Sandhu
+                        - generic "Official Artist Channel" [ref=e3079]
+                      - group [ref=e3082]:
+                        - generic "66 million views" [ref=e3086]: 66m
+                        - generic "4 months ago" [ref=e3087]: 4 mo ago
+                  - button "More actions" [ref=e3090]
+              - generic [ref=e3095] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3096]:
+                  - /url: /watch?v=K7zPAPQcp0o&list=RDK7zPAPQcp0o&start_radio=1&pp=oAcB
+                  - img [ref=e3102]:
+                    - generic [aria-hidden] [ref=e3106]: 2:36
+                - generic [ref=e3108]:
+                  - generic [ref=e3109]:
+                    - heading "BEHJA - Parmish Verma Ft. MC Square | VICTORY LAP" [level=3] [ref=e3110]:
+                      - link "BEHJA - Parmish Verma Ft. MC Square | VICTORY LAP 2 minutes, 36 seconds" [ref=e3111]:
+                        - /url: /watch?v=K7zPAPQcp0o&list=RDK7zPAPQcp0o&start_radio=1&pp=oAcB
+                        - text: BEHJA - Parmish Verma Ft. MC Square | VICTORY LAP
+                    - generic [ref=e3113]:
+                      - group [ref=e3114]:
+                        - generic [ref=e3115]: Parmish Verma
+                        - generic "Official Artist Channel" [ref=e3116]
+                      - group [ref=e3119]:
+                        - generic "20 million views" [ref=e3123]: 20m
+                        - generic "3 months ago" [ref=e3124]: 3 mo ago
+                  - button "More actions" [ref=e3127]
+              - generic [ref=e3132] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3133]:
+                  - /url: /watch?v=6dP-DpF65Rs&list=RD6dP-DpF65Rs&start_radio=1&pp=oAcB
+                  - img [ref=e3139]:
+                    - generic [aria-hidden] [ref=e3143]: 2:44
+                - generic [ref=e3145]:
+                  - generic [ref=e3146]:
+                    - heading "Krish Rao - Tough (Music Video) | Deepesh Goyal | VYRL Haryanvi 2026" [level=3] [ref=e3147]:
+                      - link "Krish Rao - Tough (Music Video) | Deepesh Goyal | VYRL Haryanvi 2026 2 minutes, 44 seconds" [ref=e3148]:
+                        - /url: /watch?v=6dP-DpF65Rs&list=RD6dP-DpF65Rs&start_radio=1&pp=oAcB
+                        - text: Krish Rao - Tough (Music Video) | Deepesh Goyal | VYRL Haryanvi 2026
+                    - generic [ref=e3150]:
+                      - group [ref=e3151]:
+                        - generic [ref=e3152]: VYRL Haryanvi
+                        - generic "Verified" [ref=e3153]
+                        - generic: and Krish Rao
+                        - generic "Official Artist Channel" [ref=e3156]
+                      - group [ref=e3159]:
+                        - generic "10 million views" [ref=e3163]: 10m
+                        - generic "2 months ago" [ref=e3164]: 2 mo ago
+                  - button "More actions" [ref=e3167]
+              - generic [ref=e3172] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3173]:
+                  - /url: /watch?v=Oyw1Eo21q5k&list=RDOyw1Eo21q5k&start_radio=1&pp=oAcB0gcJCTYMAYcqIYzv
+                  - img [ref=e3179]:
+                    - generic [aria-hidden] [ref=e3183]: 3:51
+                - generic [ref=e3185]:
+                  - generic [ref=e3186]:
+                    - heading "Kabze - Bintu Pabra | Shiva Choudhary | Pellet Drum Productions" [level=3] [ref=e3187]:
+                      - link "Kabze - Bintu Pabra | Shiva Choudhary | Pellet Drum Productions 3 minutes, 51 seconds" [ref=e3188]:
+                        - /url: /watch?v=Oyw1Eo21q5k&list=RDOyw1Eo21q5k&start_radio=1&pp=oAcB0gcJCTYMAYcqIYzv
+                        - text: Kabze - Bintu Pabra | Shiva Choudhary | Pellet Drum Productions
+                    - generic [ref=e3190]:
+                      - group [ref=e3191]:
+                        - generic [ref=e3192]: Pellet Drum Productions
+                        - generic "Verified" [ref=e3193]
+                        - generic: and Bintu Pabra
+                        - generic "Official Artist Channel" [ref=e3196]
+                      - group [ref=e3199]:
+                        - generic "102 million views" [ref=e3203]: 102m
+                        - generic "5 months ago" [ref=e3204]: 5 mo ago
+                  - button "More actions" [ref=e3207]
+              - generic [ref=e3212] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3213]:
+                  - /url: /watch?v=-YlmnPh-6rE&list=RD-YlmnPh-6rE&start_radio=1&pp=oAcB
+                  - img [ref=e3219]:
+                    - generic [aria-hidden] [ref=e3223]: 3:09
+                - generic [ref=e3225]:
+                  - generic [ref=e3226]:
+                    - heading "For A Reason (Official Video) Karan Aujla | Tania | Ikky | Latest Punjabi Songs 2025" [level=3] [ref=e3227]:
+                      - link "For A Reason (Official Video) Karan Aujla | Tania | Ikky | Latest Punjabi Songs 2025 3 minutes, 9 seconds" [ref=e3228]:
+                        - /url: /watch?v=-YlmnPh-6rE&list=RD-YlmnPh-6rE&start_radio=1&pp=oAcB
+                        - text: For A Reason (Official Video) Karan Aujla | Tania | Ikky | Latest Punjabi Songs 2025
+                    - generic [ref=e3230]:
+                      - group [ref=e3231]:
+                        - generic [ref=e3232]: Rehaan Records
+                        - generic "Verified" [ref=e3233]
+                      - group [ref=e3236]:
+                        - generic "386 million views" [ref=e3240]: 386m
+                        - generic "1 year ago" [ref=e3241]: 1 yr ago
+                  - button "More actions" [ref=e3244]
+              - generic [ref=e3249] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3250]:
+                  - /url: /watch?v=qk2WMmiiVFE&list=RDqk2WMmiiVFE&start_radio=1&pp=oAcB
+                  - img [ref=e3256]:
+                    - generic [aria-hidden] [ref=e3260]: 4:22
+                - generic [ref=e3262]:
+                  - generic [ref=e3263]:
+                    - heading "Same Beef Song | BOHEMIA | Ft. Sidhu Moose Wala | Byg Byrd | Punjabi Song | Rap Song | Music Video" [level=3] [ref=e3264]:
+                      - link "Same Beef Song | BOHEMIA | Ft. Sidhu Moose Wala | Byg Byrd | Punjabi Song | Rap Song | Music Video 4 minutes, 22 seconds" [ref=e3265]:
+                        - /url: /watch?v=qk2WMmiiVFE&list=RDqk2WMmiiVFE&start_radio=1&pp=oAcB
+                        - text: Same Beef Song | BOHEMIA | Ft. Sidhu Moose Wala | Byg Byrd | Punjabi Song | Rap Song | Music Video
+                    - generic [ref=e3267]:
+                      - group [ref=e3268]:
+                        - generic [ref=e3269]: YRF
+                        - generic "Verified" [ref=e3270]
+                      - group [ref=e3273]:
+                        - generic "720 million views" [ref=e3277]: 720m
+                        - generic "7 years ago" [ref=e3278]: 7 yr ago
+                  - button "More actions" [ref=e3281]
+              - generic [ref=e3286] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3287]:
+                  - /url: /watch?v=ebZj_nrmH-c&list=RDebZj_nrmH-c&start_radio=1&pp=oAcB
+                  - img [ref=e3293]:
+                    - generic [aria-hidden] [ref=e3297]: 3:06
+                - generic [ref=e3299]:
+                  - generic [ref=e3300]:
+                    - heading "Barsaat - Banjaare (Official Video)" [level=3] [ref=e3301]:
+                      - link "Barsaat - Banjaare (Official Video) 3 minutes, 6 seconds" [ref=e3302]:
+                        - /url: /watch?v=ebZj_nrmH-c&list=RDebZj_nrmH-c&start_radio=1&pp=oAcB
+                        - text: Barsaat - Banjaare (Official Video)
+                    - generic [ref=e3304]:
+                      - group [ref=e3305]:
+                        - generic [ref=e3306]: Banjaare
+                        - generic "Official Artist Channel" [ref=e3307]
+                        - generic [ref=e3310]: and Sony Music India
+                        - generic "Verified" [ref=e3311]
+                      - group [ref=e3314]:
+                        - generic "135 million views" [ref=e3318]: 135m
+                        - generic "3 months ago" [ref=e3319]: 3 mo ago
+                  - button "More actions" [ref=e3322]
+              - generic [ref=e3327] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3328]:
+                  - /url: /watch?v=dcrEEGRzyWw&list=RDdcrEEGRzyWw&start_radio=1&pp=oAcB
+                  - img [ref=e3334]:
+                    - generic [aria-hidden] [ref=e3338]: 3:35
+                - generic [ref=e3340]:
+                  - generic [ref=e3341]:
+                    - heading "Straight Up" [level=3] [ref=e3342]:
+                      - link "Straight Up 3 minutes, 35 seconds" [ref=e3343]:
+                        - /url: /watch?v=dcrEEGRzyWw&list=RDdcrEEGRzyWw&start_radio=1&pp=oAcB
+                        - text: Straight Up
+                    - generic [ref=e3345]:
+                      - group [ref=e3346]:
+                        - generic [ref=e3347]: Karan Aujla
+                        - generic "Official Artist Channel" [ref=e3348]
+                      - group [ref=e3351]:
+                        - generic "8 million views" [ref=e3355]: 8m
+                        - generic "3 weeks ago" [ref=e3356]: 3 wk ago
+                  - button "More actions" [ref=e3359]
+              - generic [ref=e3364] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3365]:
+                  - /url: /watch?v=kWh6fgcreyw&list=RDkWh6fgcreyw&start_radio=1&pp=oAcB
+                  - img [ref=e3371]:
+                    - generic [aria-hidden] [ref=e3375]: 2:57
+                - generic [ref=e3377]:
+                  - generic [ref=e3378]:
+                    - heading "Dhanda Nyoliwala - Do Numbari (Official Video) | Mirzapur The Movie | In Cinemas 4 Sep 2026" [level=3] [ref=e3379]:
+                      - link "Dhanda Nyoliwala - Do Numbari (Official Video) | Mirzapur The Movie | In Cinemas 4 Sep 2026 2 minutes, 57 seconds" [ref=e3380]:
+                        - /url: /watch?v=kWh6fgcreyw&list=RDkWh6fgcreyw&start_radio=1&pp=oAcB
+                        - text: Dhanda Nyoliwala - Do Numbari (Official Video) | Mirzapur The Movie | In Cinemas 4 Sep 2026
+                    - generic [ref=e3382]:
+                      - group [ref=e3383]:
+                        - generic [ref=e3384]: Excel Movies
+                        - generic "Verified" [ref=e3385]
+                        - generic [ref=e3388]: and 3 more
+                      - group [ref=e3389]:
+                        - generic "28 million views" [ref=e3393]: 28m
+                        - generic "2 months ago" [ref=e3394]: 2 mo ago
+                  - button "More actions" [ref=e3397]
+              - generic [ref=e3402] [cursor=pointer]:
+                - link [aria-hidden] [ref=e3403]:
+                  - /url: /watch?v=-2RAq5o5pwc&list=RD-2RAq5o5pwc&start_radio=1&pp=oAcB
+                  - img [ref=e3409]:
+                    - generic [aria-hidden] [ref=e3413]: 4:39
+                - generic [ref=e3415]:
+                  - generic [ref=e3416]:
+                    - heading "Jhol | Coke Studio Pakistan | Season 15 | Maanu x Annural Khalid" [level=3] [ref=e3417]:
+                      - link "Jhol | Coke Studio Pakistan | Season 15 | Maanu x Annural Khalid 4 minutes, 39 seconds" [ref=e3418]:
+                        - /url: /watch?v=-2RAq5o5pwc&list=RD-2RAq5o5pwc&start_radio=1&pp=oAcB
+                        - text: Jhol | Coke Studio Pakistan | Season 15 | Maanu x Annural Khalid
+                    - generic [ref=e3420]:
+                      - group [ref=e3421]:
+                        - generic [ref=e3422]: Coke Studio Pakistan
+                        - generic "Verified" [ref=e3423]
+                      - group [ref=e3426]:
+                        - generic "646 million views" [ref=e3430]: 646m
+                        - generic "2 years ago" [ref=e3431]: 2 yr ago
+                  - button "More actions" [ref=e3434]

@@ -1,0 +1,211 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: IN
+        - button "Skip navigation" [ref=e20] [cursor=pointer]
+      - generic [ref=e24]:
+        - search [ref=e25]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: Aske by Karan Aujla
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=e51]
+  - main [ref=e53]:
+    - generic [ref=e54]:
+      - generic [ref=e56]:
+        - tablist [ref=e61]:
+          - tab "All" [selected] [ref=e64] [cursor=pointer]
+          - tab "Shorts" [ref=e69] [cursor=pointer]
+          - tab "Unwatched" [ref=e74] [cursor=pointer]
+          - tab "Videos" [ref=e79] [cursor=pointer]
+          - tab "Recently uploaded" [ref=e84] [cursor=pointer]
+          - tab "Live" [ref=e89] [cursor=pointer]
+        - generic [ref=e93]:
+          - button "Search filters" [ref=e95] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=e104]:
+        - generic [ref=e106]:
+          - text: "Did you mean:"
+          - link "Asked by Karan Aujla" [ref=e107] [cursor=pointer]:
+            - /url: /results?search_query=Asked+by+Karan+Aujla
+        - generic [ref=e110]:
+          - link [aria-hidden] [ref=e112] [cursor=pointer]:
+            - /url: /watch?v=Pd1yGW_g2T8&list=RDPd1yGW_g2T8&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+          - generic [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]:
+              - heading [level=3] [ref=e117]:
+                - link "Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1 3 minutes, 38 seconds" [ref=e118]:
+                  - /url: /watch?v=Pd1yGW_g2T8&list=RDPd1yGW_g2T8&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+                  - text: Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1
+              - generic [ref=e121]:
+                - generic [ref=e122]: 38m
+                - generic [ref=e123]: •3 wk ago
+            - generic [ref=e124]:
+              - link "Go to channel Karan Aujla" [ref=e125]:
+                - /url: /channel/UC3XBkDeCVXCoCofFgfUZXGw
+              - generic [ref=e126]:
+                - link "Karan Aujla" [ref=e130]:
+                  - /url: /channel/UC3XBkDeCVXCoCofFgfUZXGw
+                - img "Official Artist Channel" [ref=e135]
+            - generic [ref=e137]:
+              - generic [ref=e138]: Karan Aujla & Sandeep Rehaan presents ASHKE from the EP Aujla SZN 1. Song - Ashke Singer/Lyrics/Composer - Karan Aujla ...
+              - tooltip "tooltip"
+            - img "4K" [ref=e143]:
+              - generic [aria-hidden] [ref=e144]: 4K
+        - generic [ref=e146]:
+          - link [aria-hidden] [ref=e148] [cursor=pointer]:
+            - /url: /watch?v=OBETTtRwq9k&list=RDOBETTtRwq9k&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+          - generic [ref=e150] [cursor=pointer]:
+            - generic [ref=e151]:
+              - heading [level=3] [ref=e153]:
+                - link "Ashke - Karan Aujla & Mxrci | Lyrics 3 minutes, 38 seconds" [ref=e154]:
+                  - /url: /watch?v=OBETTtRwq9k&list=RDOBETTtRwq9k&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+                  - text: Ashke - Karan Aujla & Mxrci | Lyrics
+              - generic [ref=e157]:
+                - generic [ref=e158]: 232k
+                - generic [ref=e159]: •3 wk ago
+            - generic [ref=e160]:
+              - link "Go to channel ta editor" [ref=e161]:
+                - /url: /@taeditor1486
+              - link "ta editor" [ref=e166]:
+                - /url: /@taeditor1486
+            - generic [ref=e167]:
+              - text: "Best Songs: https://youtu.be/kHzDCllvn7k https://youtu.be/gqVXwyHOhko https://youtu.be/k_RuxihPd1E ..."
+              - tooltip "tooltip"
+            - img "4K" [ref=e172]:
+              - generic [aria-hidden] [ref=e173]: 4K
+        - generic [ref=e175]:
+          - link [aria-hidden] [ref=e177] [cursor=pointer]:
+            - /url: /watch?v=mK-10y3Ujlw&list=RDmK-10y3Ujlw&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+          - generic [ref=e179] [cursor=pointer]:
+            - generic [ref=e180]:
+              - heading [level=3] [ref=e182]:
+                - link "Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1 3 minutes, 39 seconds" [ref=e183]:
+                  - /url: /watch?v=mK-10y3Ujlw&list=RDmK-10y3Ujlw&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+                  - text: Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1
+              - generic [ref=e186]:
+                - generic [ref=e187]: 2.8m
+                - generic [ref=e188]: •3 wk ago
+            - generic [ref=e189]:
+              - link "Go to channel Karan Aujla Global" [ref=e190]:
+                - /url: /@Karan.aujla.global
+              - link "Karan Aujla Global" [ref=e195]:
+                - /url: /@Karan.aujla.global
+            - generic [ref=e196]:
+              - generic [ref=e197]: Karan Aujla presents ASHKE from the EP Aujla SZN 1. Song - Ashke Singer/Lyrics/Composer - Karan Aujla Music - Mxrci Directed ...
+              - tooltip "tooltip"
+            - img "4K" [ref=e202]:
+              - generic [aria-hidden] [ref=e203]: 4K
+        - generic [ref=e212] [cursor=pointer]:
+          - link [aria-hidden] [ref=e213]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSV2B9SPaauLlIdjIrtoP9-mX-QOQiJquigHlzsqA6BWwkB8QASAAYOWq5YOsDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoE5gJP0N4ZCoG8UP1PmcDfDiyrm2ud8xv1ZAwTQ3pSvh-vxB9hFiYobjyj5M_ff1nmHOl8CkTpnMRrVEqUvY26U3qswel1IuS7nMeSIJohOC3T8kWpo7mpUFFiXvNqqO0J4Y5iuxVT4uURwB1RV4eSzxy3NbSEZJdzwWCYVXkJW4O2jK5x8FvKznoCW0QhXgd8OIW5qfIwI4d6M4sMrtBBmnHyCUSAm6OKHN2d28e5gpk0JLr_IX2K3SWo4B8yZkLImZ6RZSe1BH-C5sK5_XOEzfo9HIeGjxqWNsVCAvgs2B2-kSmWApvK-XxgFEzGZRBWMruDKK25SszzTg-wA0Yu1cyl99s6SOLPEcJFT_6odNXnbpQ5fRB86PIujOLIr1YjKFx7XVmZHr9_2eowFlYzcBIlOoOHsk78eIISY6mp1I-46yUKX9U8c5k-ZKqiviBkyLEl8ZnZIbi61O33296ozkQfgcGwENeqiAWJ-tWdWZIFCAgTeIuA8OACoAahAYAH3Z313wKQBwSoB-rusQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAe86rECqAf8r7ECqAfVzhuoB77ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIICzlzMVZLby1FeUtRqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmJ_G-fDNlwNgAZoJQ2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWyxCfUbBJ74KtKSyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCBboDBXZpc2lu0AsS4AsBogwZahIKEGNvbS5hZG9iZS5yZWFkZXJ4AIgBANIMAhAB2gwmCgsQ8L2ChMfPgpvjARICAQMaDRiJ-tWdWSCM5MfV_wVAAUoCEB-aDQESqg0CSU7IDQHSDcMEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJaWZyVm5WbW9Bb3VBOE9BQ3NBS1J1b1huQTBBN0VKZm51Z0Z6dlhYOHNDemhwYTJwdFFMamhQdXk7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDcUY3UkUybmtJQ0VFbXB1TlpjRXUtdlotMHg4WGVmR3MxdEcyT1R3dXNjdE9IUmFQZG5icWhteWRLNHA2R0JqUFk5Z3Bvb3JBbHpQOFM3UTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWw_c2RpZD1YWFRRR01SVyZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmZ2FkX3NvdXJjZT0ysBOHkuAluBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIorTG-fDNlwMVWKRLBR339CU_EAEYASAAEgLrcfD_BwE&num=1&cid=CAASwgHkaIJq1LzPiUoFlxBlb8hlr0LeqS2b533hfTnwxarArXLAgQWBJVhw89duiMGgYeAZSpJACMD7HhmQxxuGPVM19oSXFwjI4xg4rD8YljeMwvBZE-l8hIE6fztWDKCh30atAK0IEBLJaQvRCWE2jZGtcQ30HaRbpAlcxGrbZ6xXh-r4VLZMwak3tjHQqm-1q58iUVpJVpyCAEUlWGaqJP8X2gs84hRkiarxOLFQ2t3R91MNyEvYAh1YbredY7vaEtR11w&ad_cpn=%5BCPN%5D&sig=AOD64_31_bduvhl35ZKDshYc5aVo35QpHw&ctype=110&video_id=9s1VKo-EyKQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - button [aria-hidden] [ref=e219]
+          - generic [ref=e223]:
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - link "Bring your documents to life by generating engaging audio summaries, on the go." [ref=e228]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSV2B9SPaauLlIdjIrtoP9-mX-QOQiJquigHlzsqA6BWwkB8QASAAYOWq5YOsDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoE5gJP0N4ZCoG8UP1PmcDfDiyrm2ud8xv1ZAwTQ3pSvh-vxB9hFiYobjyj5M_ff1nmHOl8CkTpnMRrVEqUvY26U3qswel1IuS7nMeSIJohOC3T8kWpo7mpUFFiXvNqqO0J4Y5iuxVT4uURwB1RV4eSzxy3NbSEZJdzwWCYVXkJW4O2jK5x8FvKznoCW0QhXgd8OIW5qfIwI4d6M4sMrtBBmnHyCUSAm6OKHN2d28e5gpk0JLr_IX2K3SWo4B8yZkLImZ6RZSe1BH-C5sK5_XOEzfo9HIeGjxqWNsVCAvgs2B2-kSmWApvK-XxgFEzGZRBWMruDKK25SszzTg-wA0Yu1cyl99s6SOLPEcJFT_6odNXnbpQ5fRB86PIujOLIr1YjKFx7XVmZHr9_2eowFlYzcBIlOoOHsk78eIISY6mp1I-46yUKX9U8c5k-ZKqiviBkyLEl8ZnZIbi61O33296ozkQfgcGwENeqiAWJ-tWdWZIFCAgTeIuA8OACoAahAYAH3Z313wKQBwSoB-rusQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAe86rECqAf8r7ECqAfVzhuoB77ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIICzlzMVZLby1FeUtRqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmJ_G-fDNlwNgAZoJQ2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWyxCfUbBJ74KtKSyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCBboDBXZpc2lu0AsS4AsBogwZahIKEGNvbS5hZG9iZS5yZWFkZXJ4AIgBANIMAhAB2gwmCgsQ8L2ChMfPgpvjARICAQMaDRiJ-tWdWSCM5MfV_wVAAUoCEB-aDQESqg0CSU7IDQHSDcMEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJaWZyVm5WbW9Bb3VBOE9BQ3NBS1J1b1huQTBBN0VKZm51Z0Z6dlhYOHNDemhwYTJwdFFMamhQdXk7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDcUY3UkUybmtJQ0VFbXB1TlpjRXUtdlotMHg4WGVmR3MxdEcyT1R3dXNjdE9IUmFQZG5icWhteWRLNHA2R0JqUFk5Z3Bvb3JBbHpQOFM3UTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWw_c2RpZD1YWFRRR01SVyZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmZ2FkX3NvdXJjZT0ysBOHkuAluBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIorTG-fDNlwMVWKRLBR339CU_EAEYASAAEgLrcfD_BwE&num=1&cid=CAASwgHkaIJq1LzPiUoFlxBlb8hlr0LeqS2b533hfTnwxarArXLAgQWBJVhw89duiMGgYeAZSpJACMD7HhmQxxuGPVM19oSXFwjI4xg4rD8YljeMwvBZE-l8hIE6fztWDKCh30atAK0IEBLJaQvRCWE2jZGtcQ30HaRbpAlcxGrbZ6xXh-r4VLZMwak3tjHQqm-1q58iUVpJVpyCAEUlWGaqJP8X2gs84hRkiarxOLFQ2t3R91MNyEvYAh1YbredY7vaEtR11w&ad_cpn=%5BCPN%5D&sig=AOD64_31_bduvhl35ZKDshYc5aVo35QpHw&ctype=110&video_id=9s1VKo-EyKQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Hear key insights from your docs, on the go." [ref=e231]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSV2B9SPaauLlIdjIrtoP9-mX-QOQiJquigHlzsqA6BWwkB8QASAAYOWq5YOsDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoE5gJP0N4ZCoG8UP1PmcDfDiyrm2ud8xv1ZAwTQ3pSvh-vxB9hFiYobjyj5M_ff1nmHOl8CkTpnMRrVEqUvY26U3qswel1IuS7nMeSIJohOC3T8kWpo7mpUFFiXvNqqO0J4Y5iuxVT4uURwB1RV4eSzxy3NbSEZJdzwWCYVXkJW4O2jK5x8FvKznoCW0QhXgd8OIW5qfIwI4d6M4sMrtBBmnHyCUSAm6OKHN2d28e5gpk0JLr_IX2K3SWo4B8yZkLImZ6RZSe1BH-C5sK5_XOEzfo9HIeGjxqWNsVCAvgs2B2-kSmWApvK-XxgFEzGZRBWMruDKK25SszzTg-wA0Yu1cyl99s6SOLPEcJFT_6odNXnbpQ5fRB86PIujOLIr1YjKFx7XVmZHr9_2eowFlYzcBIlOoOHsk78eIISY6mp1I-46yUKX9U8c5k-ZKqiviBkyLEl8ZnZIbi61O33296ozkQfgcGwENeqiAWJ-tWdWZIFCAgTeIuA8OACoAahAYAH3Z313wKQBwSoB-rusQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAe86rECqAf8r7ECqAfVzhuoB77ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIICzlzMVZLby1FeUtRqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmJ_G-fDNlwNgAZoJQ2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWyxCfUbBJ74KtKSyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCBboDBXZpc2lu0AsS4AsBogwZahIKEGNvbS5hZG9iZS5yZWFkZXJ4AIgBANIMAhAB2gwmCgsQ8L2ChMfPgpvjARICAQMaDRiJ-tWdWSCM5MfV_wVAAUoCEB-aDQESqg0CSU7IDQHSDcMEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJaWZyVm5WbW9Bb3VBOE9BQ3NBS1J1b1huQTBBN0VKZm51Z0Z6dlhYOHNDemhwYTJwdFFMamhQdXk7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDcUY3UkUybmtJQ0VFbXB1TlpjRXUtdlotMHg4WGVmR3MxdEcyT1R3dXNjdE9IUmFQZG5icWhteWRLNHA2R0JqUFk5Z3Bvb3JBbHpQOFM3UTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWw_c2RpZD1YWFRRR01SVyZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmZ2FkX3NvdXJjZT0ysBOHkuAluBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIorTG-fDNlwMVWKRLBR339CU_EAEYASAAEgLrcfD_BwE&num=1&cid=CAASwgHkaIJq1LzPiUoFlxBlb8hlr0LeqS2b533hfTnwxarArXLAgQWBJVhw89duiMGgYeAZSpJACMD7HhmQxxuGPVM19oSXFwjI4xg4rD8YljeMwvBZE-l8hIE6fztWDKCh30atAK0IEBLJaQvRCWE2jZGtcQ30HaRbpAlcxGrbZ6xXh-r4VLZMwak3tjHQqm-1q58iUVpJVpyCAEUlWGaqJP8X2gs84hRkiarxOLFQ2t3R91MNyEvYAh1YbredY7vaEtR11w&ad_cpn=%5BCPN%5D&sig=AOD64_31_bduvhl35ZKDshYc5aVo35QpHw&ctype=110&video_id=9s1VKo-EyKQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e232]:
+                  - button "Adobe Document Cloud Media" [ref=e236]
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: Sponsored
+                    - text: ·
+                  - generic [ref=e242]: Adobe Acrobat
+              - button "My Ad Centre" [ref=e246]
+            - generic [ref=e252]:
+              - link "Watch" [ref=e255]:
+                - /url: /watch?v=9s1VKo-EyKQ
+              - link "Learn more" [ref=e261]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSV2B9SPaauLlIdjIrtoP9-mX-QOQiJquigHlzsqA6BWwkB8QASAAYOWq5YOsDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoE5gJP0N4ZCoG8UP1PmcDfDiyrm2ud8xv1ZAwTQ3pSvh-vxB9hFiYobjyj5M_ff1nmHOl8CkTpnMRrVEqUvY26U3qswel1IuS7nMeSIJohOC3T8kWpo7mpUFFiXvNqqO0J4Y5iuxVT4uURwB1RV4eSzxy3NbSEZJdzwWCYVXkJW4O2jK5x8FvKznoCW0QhXgd8OIW5qfIwI4d6M4sMrtBBmnHyCUSAm6OKHN2d28e5gpk0JLr_IX2K3SWo4B8yZkLImZ6RZSe1BH-C5sK5_XOEzfo9HIeGjxqWNsVCAvgs2B2-kSmWApvK-XxgFEzGZRBWMruDKK25SszzTg-wA0Yu1cyl99s6SOLPEcJFT_6odNXnbpQ5fRB86PIujOLIr1YjKFx7XVmZHr9_2eowFlYzcBIlOoOHsk78eIISY6mp1I-46yUKX9U8c5k-ZKqiviBkyLEl8ZnZIbi61O33296ozkQfgcGwENeqiAWJ-tWdWZIFCAgTeIuA8OACoAahAYAH3Z313wKQBwSoB-rusQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAe86rECqAf8r7ECqAfVzhuoB77ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIICzlzMVZLby1FeUtRqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmJ_G-fDNlwNgAZoJQ2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWyxCfUbBJ74KtKSyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCBboDBXZpc2lu0AsS4AsBogwZahIKEGNvbS5hZG9iZS5yZWFkZXJ4AIgBANIMAhAB2gwmCgsQ8L2ChMfPgpvjARICAQMaDRiJ-tWdWSCM5MfV_wVAAUoCEB-aDQESqg0CSU7IDQHSDcMEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJaWZyVm5WbW9Bb3VBOE9BQ3NBS1J1b1huQTBBN0VKZm51Z0Z6dlhYOHNDemhwYTJwdFFMamhQdXk7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDcUY3UkUybmtJQ0VFbXB1TlpjRXUtdlotMHg4WGVmR3MxdEcyT1R3dXNjdE9IUmFQZG5icWhteWRLNHA2R0JqUFk5Z3Bvb3JBbHpQOFM3UTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmFkb2JlLmNvbS9pbi9hY3JvYmF0L2NhbXBhaWduL2RvLXRoYXQtd2l0aC1hY3JvYmF0Lmh0bWw_c2RpZD1YWFRRR01SVyZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmZ2FkX3NvdXJjZT0ysBOHkuAluBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIorTG-fDNlwMVWKRLBR339CU_EAEYASAAEgLrcfD_BwE&num=1&cid=CAASwgHkaIJq1LzPiUoFlxBlb8hlr0LeqS2b533hfTnwxarArXLAgQWBJVhw89duiMGgYeAZSpJACMD7HhmQxxuGPVM19oSXFwjI4xg4rD8YljeMwvBZE-l8hIE6fztWDKCh30atAK0IEBLJaQvRCWE2jZGtcQ30HaRbpAlcxGrbZ6xXh-r4VLZMwak3tjHQqm-1q58iUVpJVpyCAEUlWGaqJP8X2gs84hRkiarxOLFQ2t3R91MNyEvYAh1YbredY7vaEtR11w&ad_cpn=%5BCPN%5D&sig=AOD64_31_bduvhl35ZKDshYc5aVo35QpHw&ctype=110&video_id=9s1VKo-EyKQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+        - generic [ref=e266]:
+          - link [aria-hidden] [ref=e268] [cursor=pointer]:
+            - /url: /watch?v=_NjTnuv9Spg&list=RD_NjTnuv9Spg&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+          - generic [ref=e270] [cursor=pointer]:
+            - generic [ref=e271]:
+              - heading [level=3] [ref=e273]:
+                - link "ASHKE OFFICIAL VIDEO KARAN AUJLA NEW PUNJABI SONG 2026 3 minutes, 39 seconds" [ref=e274]:
+                  - /url: /watch?v=_NjTnuv9Spg&list=RD_NjTnuv9Spg&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+                  - text: ASHKE OFFICIAL VIDEO KARAN AUJLA NEW PUNJABI SONG 2026
+              - generic [ref=e277]:
+                - generic [ref=e278]: 114k
+                - generic [ref=e279]: •3 wk ago
+            - generic [ref=e280]:
+              - link "Go to channel KESHAV RANGA MUSIC" [ref=e281]:
+                - /url: /@Keshav786-z5o
+              - link "KESHAV RANGA MUSIC" [ref=e286]:
+                - /url: /@Keshav786-z5o
+        - generic [ref=e288]:
+          - link [aria-hidden] [ref=e290] [cursor=pointer]:
+            - /url: /watch?v=-YlmnPh-6rE&list=RD-YlmnPh-6rE&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+          - generic [ref=e292] [cursor=pointer]:
+            - generic [ref=e293]:
+              - heading [level=3] [ref=e295]:
+                - link "For A Reason (Official Video) Karan Aujla | Tania | Ikky | Latest Punjabi Songs 2025 3 minutes, 9 seconds" [ref=e296]:
+                  - /url: /watch?v=-YlmnPh-6rE&list=RD-YlmnPh-6rE&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+                  - text: For A Reason (Official Video) Karan Aujla | Tania | Ikky | Latest Punjabi Songs 2025
+              - generic [ref=e299]:
+                - generic [ref=e300]: 386m
+                - generic [ref=e301]: •1 yr ago
+            - generic [ref=e302]:
+              - link "Go to channel Rehaan Records" [ref=e303]:
+                - /url: /@RehaanRecords
+              - generic [ref=e304]:
+                - link "Rehaan Records" [ref=e308]:
+                  - /url: /@RehaanRecords
+                - img "Verified" [ref=e313]
+            - generic [ref=e315]:
+              - generic [ref=e316]: "Sandeep Rehaan & Karan Aujla Present Song - For A Reason Singer/Lyrics/Composer - Karan Aujla Music - Ikky Directed By: ..."
+              - tooltip "tooltip"
+            - img "4K" [ref=e321]:
+              - generic [aria-hidden] [ref=e322]: 4K
+        - generic [ref=e324] [cursor=pointer]:
+          - link [aria-hidden] [ref=e325]:
+            - /url: /watch?v=Pd1yGW_g2T8&list=RDPd1yGW_g2T8&start_radio=1
+            - generic [ref=e327]: Mix
+          - generic [ref=e340]:
+            - heading "Mix - Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1" [level=3] [ref=e341]:
+              - link "Mix - Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1" [ref=e342]:
+                - /url: /watch?v=Pd1yGW_g2T8&list=RDPd1yGW_g2T8&start_radio=1
+            - generic [ref=e344]:
+              - group [ref=e345]:
+                - generic [ref=e346]: Karan Aujla, Ikky, and more
+                - generic [ref=e347]: Playlist
+              - group [ref=e348]
+              - group [ref=e349]:
+                - link "Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1 · 3:38" [ref=e351]:
+                  - /url: /watch?v=Pd1yGW_g2T8&list=RDPd1yGW_g2T8&start_radio=1&pp=0gcJCQkF0aJEHMZM
+              - group [ref=e352]:
+                - link "On Top (Full Video) Karan Aujla | Yeah Proof | New Punjabi Songs 2022 · 3:07" [ref=e354]:
+                  - /url: /watch?v=aFWDOFg7X2A&list=RDPd1yGW_g2T8&start_radio=1
+              - group [ref=e355]:
+                - generic [ref=e356]: Karan Aujla, Ikky, and more
+        - generic [ref=e358]:
+          - link [aria-hidden] [ref=e360] [cursor=pointer]:
+            - /url: /watch?v=F5zJw83L5iI&list=RDF5zJw83L5iI&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+          - generic [ref=e362] [cursor=pointer]:
+            - generic [ref=e363]:
+              - heading [level=3] [ref=e365]:
+                - link "Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1 Music By Mani Uppli Wala 2 minutes, 35 seconds" [ref=e366]:
+                  - /url: /watch?v=F5zJw83L5iI&list=RDF5zJw83L5iI&start_radio=1&pp=ygUTQXNrZSBieSBLYXJhbiBBdWpsYaAHAQ%3D%3D
+                  - text: Ashke (Music Video) Karan Aujla | Mxrci | Aujla Szn 1 Music By Mani Uppli Wala
+              - generic [ref=e369]:
+                - generic [ref=e370]: 64k
+                - generic [ref=e371]: •3 wk ago
+            - generic [ref=e372]:
+              - button "Collaboration channels" [ref=e374]
+              - generic [ref=e391]: Mani Uppli Walaand Dabangg Gabru
+            - generic [ref=e398]:
+              - generic [ref=e399]: karan aujla new song karan aujla song karan aujla new song 2026 karan aujla new album karan aujla all songs karan aujla new ...
+              - tooltip "tooltip"

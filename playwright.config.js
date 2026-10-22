@@ -89,4 +89,4 @@ const config = ({ // this one is calling at bottom
 });
 
 
-module.exports = config
+export default config;

@@ -1,0 +1,38 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e4]:
+    - generic [ref=f1e6]:
+      - generic [ref=f1e7]:
+        - button "Guide" [ref=f1e9] [cursor=pointer]
+        - generic [ref=f1e13]:
+          - link "YouTube Home" [ref=f1e14] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f1e20]: IN
+        - button "Skip navigation" [ref=f1e24] [cursor=pointer]
+      - generic [ref=f1e28]:
+        - search [ref=f1e29]:
+          - generic [ref=f1e31]:
+            - combobox "Search" [expanded] [ref=f1e34]
+            - button "Search" [ref=f1e35] [cursor=pointer]
+        - generic [ref=f1e40]:
+          - button "Search with your voice" [ref=f1e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f1e47]:
+        - button "Settings" [ref=f1e52] [cursor=pointer]
+        - link "Sign in" [ref=f1e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620
+  - navigation [ref=f1e62]:
+    - generic [ref=f1e63]:
+      - link "Home" [ref=f1e65] [cursor=pointer]:
+        - /url: /
+      - link "Shorts" [ref=f1e69] [cursor=pointer]:
+        - /url: /shorts/
+      - link "Subscriptions" [ref=f1e75] [cursor=pointer]:
+        - /url: /feed/subscriptions
+      - link "You" [ref=f1e81] [cursor=pointer]:
+        - /url: /feed/you
+  - generic [ref=f1e86]:
+    - main [ref=f1e87]:
+      - generic [ref=f1e97]:
+        - heading "Try searching to get started" [level=2] [ref=f1e98]
+        - generic [ref=f1e99]: Start watching videos to help us build a feed of videos that you'll love.
+    - text: •

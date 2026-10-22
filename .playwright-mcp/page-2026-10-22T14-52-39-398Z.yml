@@ -1,0 +1,224 @@
+- generic [ref=f5e2]:
+  - banner [ref=f5e4]:
+    - generic [ref=f5e6]:
+      - generic [ref=f5e7]:
+        - button "Guide" [active] [ref=f5e9] [cursor=pointer]
+        - generic [ref=f5e11]:
+          - link "YouTube Home" [ref=f5e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f5e16]: IN
+        - button "Skip navigation" [ref=f5e20] [cursor=pointer]
+      - generic [ref=f5e24]:
+        - search [ref=f5e25]:
+          - generic [ref=f5e27]:
+            - generic [ref=f5e28]:
+              - combobox "Search" [expanded] [ref=f5e30]: seet leher song
+              - button "Clear search query" [ref=f5e32] [cursor=pointer]
+            - button "Search" [ref=f5e37] [cursor=pointer]
+        - generic [ref=f5e40]:
+          - button "Search with your voice" [ref=f5e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f5e51]
+  - main [ref=f5e53]:
+    - generic [ref=f5e54]:
+      - generic [ref=f5e56]:
+        - tablist [ref=f5e61]:
+          - tab "All" [selected] [ref=f5e64] [cursor=pointer]
+          - tab "Shorts" [ref=f5e69] [cursor=pointer]
+          - tab "Unwatched" [ref=f5e74] [cursor=pointer]
+          - tab "Videos" [ref=f5e79] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f5e84] [cursor=pointer]
+          - tab "Live" [ref=f5e89] [cursor=pointer]
+        - generic [ref=f5e93]:
+          - button "Search filters" [ref=f5e95] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f5e104]:
+        - generic [ref=f5e106]:
+          - text: "Did you mean:"
+          - link "seet lehar song" [ref=f5e107] [cursor=pointer]:
+            - /url: /results?search_query=seet+lehar+song
+        - generic [ref=f5e110]:
+          - link [aria-hidden] [ref=f5e112] [cursor=pointer]:
+            - /url: /watch?v=tKLcFy1HDUA&list=RDtKLcFy1HDUA&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB
+          - generic [ref=f5e114] [cursor=pointer]:
+            - generic [ref=f5e115]:
+              - heading [level=3] [ref=f5e117]:
+                - link "Seet Lehar (Official Video) - Filmy ft. Tanu Rawat | Haryanvi Song | Real Music 3 minutes, 31 seconds" [ref=f5e118]:
+                  - /url: /watch?v=tKLcFy1HDUA&list=RDtKLcFy1HDUA&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB
+                  - text: Seet Lehar (Official Video) - Filmy ft. Tanu Rawat | Haryanvi Song | Real Music
+              - generic [ref=f5e121]:
+                - generic [ref=f5e122]: 108m
+                - generic [ref=f5e123]: •10 mo ago
+            - generic [ref=f5e124]:
+              - button "Collaboration channels" [ref=f5e126]
+              - generic [ref=f5e143]: Real Musicand Filmy
+            - generic [ref=f5e153]:
+              - generic [ref=f5e154]: Presenting “Seet Lehar (Dekh Le)” by Filmy featuring Tanu Rawat — a romantic Haryanvi song that has captured millions of ...
+              - tooltip "tooltip"
+            - img "4K" [ref=f5e159]:
+              - generic [aria-hidden] [ref=f5e160]: 4K
+        - generic [ref=f5e162] [cursor=pointer]:
+          - link [aria-hidden] [ref=f5e163]:
+            - /url: /watch?v=tKLcFy1HDUA&list=RDtKLcFy1HDUA&start_radio=1
+            - generic [ref=f5e165]: Mix
+          - generic [ref=f5e178]:
+            - heading "Mix - Seet Lehar (Official Video) - Filmy ft. Tanu Rawat | Haryanvi Song | Real Music" [level=3] [ref=f5e179]:
+              - link "Mix - Seet Lehar (Official Video) - Filmy ft. Tanu Rawat | Haryanvi Song | Real Music" [ref=f5e180]:
+                - /url: /watch?v=tKLcFy1HDUA&list=RDtKLcFy1HDUA&start_radio=1
+            - generic [ref=f5e182]:
+              - group [ref=f5e183]:
+                - generic [ref=f5e184]: Riyaazi, Sumit Parta, Raj Mawar, and more
+                - generic [ref=f5e185]: Playlist
+              - group [ref=f5e186]
+              - group [ref=f5e187]:
+                - link "Seet Lehar (Official Video) - Filmy ft. Tanu Rawat | Haryanvi Song | Real Music · 3:31" [ref=f5e189]:
+                  - /url: /watch?v=tKLcFy1HDUA&list=RDtKLcFy1HDUA&start_radio=1
+              - group [ref=f5e190]:
+                - link "Winter Days (Official Video) | Filmy | Ishita Malik | New Haryanvi Songs Haryanavi 2024 · 3:18" [ref=f5e192]:
+                  - /url: /watch?v=yqZ7182pL1A&list=RDtKLcFy1HDUA&start_radio=1
+              - group [ref=f5e193]:
+                - generic [ref=f5e194]: Riyaazi, Sumit Parta, Raj Mawar, and more
+        - generic [ref=f5e196]:
+          - link [aria-hidden] [ref=f5e198] [cursor=pointer]:
+            - /url: /watch?v=JdDn7OUtxj8&list=RDJdDn7OUtxj8&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB0gcJCTYMAYcqIYzv
+          - generic [ref=f5e200] [cursor=pointer]:
+            - generic [ref=f5e201]:
+              - heading [level=3] [ref=f5e203]:
+                - link "Seet Lehar – Filmy (Lyrics Video) Ft. Tanu Rawat | New Haryanvi Song 2026 | BhaavNagar Lyrics 3 minutes, 25 seconds" [ref=f5e204]:
+                  - /url: /watch?v=JdDn7OUtxj8&list=RDJdDn7OUtxj8&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB0gcJCTYMAYcqIYzv
+                  - text: Seet Lehar – Filmy (Lyrics Video) Ft. Tanu Rawat | New Haryanvi Song 2026 | BhaavNagar Lyrics
+              - generic [ref=f5e207]:
+                - generic [ref=f5e208]: 79k
+                - generic [ref=f5e209]: •9 mo ago
+            - generic [ref=f5e210]:
+              - link "Go to channel BhaavNagar" [ref=f5e211]:
+                - /url: /@BhaavNagar
+              - link "BhaavNagar" [ref=f5e216]:
+                - /url: /@BhaavNagar
+            - generic [ref=f5e217]:
+              - generic [ref=f5e218]: Presenting “Seet Lehar – Filmy (Official Lyrics Video)” featuring Tanu Rawat. This beautiful new Haryanvi romantic song is filled ...
+              - tooltip "tooltip"
+            - img "4K" [ref=f5e223]:
+              - generic [aria-hidden] [ref=f5e224]: 4K
+        - generic [ref=f5e225]:
+          - heading "Shorts" [level=2] [ref=f5e233]
+          - generic [ref=f5e235]:
+            - generic [ref=f5e238]:
+              - link [aria-hidden] [ref=f5e239] [cursor=pointer]:
+                - /url: /shorts/r0iiUugmP9k
+              - generic [ref=f5e243] [cursor=pointer]:
+                - generic [ref=f5e244]:
+                  - heading [level=3] [ref=f5e245]:
+                    - link "Seet Lehar – Filmy Ft. Tannu Rawat | Winter Love Vibes" [ref=f5e246]:
+                      - /url: /shorts/r0iiUugmP9k
+                  - generic [ref=f5e247]: 2.9m views
+                - button "More actions" [ref=f5e249]
+            - generic [ref=f5e255]:
+              - link [aria-hidden] [ref=f5e256] [cursor=pointer]:
+                - /url: /shorts/s72MnoEAFY4
+              - generic [ref=f5e260] [cursor=pointer]:
+                - generic [ref=f5e261]:
+                  - heading [level=3] [ref=f5e262]:
+                    - 'link "Seet Lehar (Dekh Le) Filmy F. Tanu Rawat | Haryanvi Song #seetlehar" [ref=f5e263]':
+                      - /url: /shorts/s72MnoEAFY4
+                  - generic [ref=f5e264]: 853k views
+                - button "More actions" [ref=f5e266]
+            - generic [ref=f5e272]:
+              - link [aria-hidden] [ref=f5e273] [cursor=pointer]:
+                - /url: /shorts/ewJm3WVld9k
+              - generic [ref=f5e277] [cursor=pointer]:
+                - generic [ref=f5e278]:
+                  - heading [level=3] [ref=f5e279]:
+                    - link "SEET LEHAR ❄️☃️ - Filmy | Sheet Lehar Song | Tanu Rawat | New Haryanvi Song | Haryanvi Song" [ref=f5e280]:
+                      - /url: /shorts/ewJm3WVld9k
+                  - generic [ref=f5e281]: 733k views
+                - button "More actions" [ref=f5e283]
+            - generic [ref=f5e289]:
+              - link [aria-hidden] [ref=f5e290] [cursor=pointer]:
+                - /url: /shorts/rJR-o3uv7Qc
+              - generic [ref=f5e294] [cursor=pointer]:
+                - generic [ref=f5e295]:
+                  - heading [level=3] [ref=f5e296]:
+                    - link "Seet Lahar Dekh le 🫵😍- Filmy | Ft. Tanu Rawat | New Haryanvi Song 2025 |Seet Lehar" [ref=f5e297]:
+                      - /url: /shorts/rJR-o3uv7Qc
+                  - generic [ref=f5e298]: 255k views
+                - button "More actions" [ref=f5e300]
+            - generic [ref=f5e306]:
+              - link [aria-hidden] [ref=f5e307] [cursor=pointer]:
+                - /url: /shorts/h2Mwr9Xi7-0
+              - generic [ref=f5e311] [cursor=pointer]:
+                - generic [ref=f5e312]:
+                  - heading [level=3] [ref=f5e313]:
+                    - link "Seet Lehar (Dekh Le) Filmy Ft. Tanu Rawat | Haryanvi Song" [ref=f5e314]:
+                      - /url: /shorts/h2Mwr9Xi7-0
+                  - generic [ref=f5e315]: 941k views
+                - button "More actions" [ref=f5e317]
+        - generic [ref=f5e322]:
+          - link [aria-hidden] [ref=f5e324] [cursor=pointer]:
+            - /url: /watch?v=f7tocFaK1Fk&list=RDf7tocFaK1Fk&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB
+          - generic [ref=f5e326] [cursor=pointer]:
+            - generic [ref=f5e327]:
+              - heading [level=3] [ref=f5e329]:
+                - link "Seet Lehar - Filmy (Official Music Video) Ft. Tanu Rawat | New Haryanvi Song 2025 | Dekh le 3 minutes, 31 seconds" [ref=f5e330]:
+                  - /url: /watch?v=f7tocFaK1Fk&list=RDf7tocFaK1Fk&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB
+                  - text: Seet Lehar - Filmy (Official Music Video) Ft. Tanu Rawat | New Haryanvi Song 2025 | Dekh le
+              - generic [ref=f5e333]:
+                - generic [ref=f5e334]: 51k
+                - generic [ref=f5e335]: •9 mo ago
+            - generic [ref=f5e336]:
+              - link "Go to channel Mr. Dikshit Nain" [ref=f5e337]:
+                - /url: /@mrdikshitnain-official
+              - link "Mr. Dikshit Nain" [ref=f5e342]:
+                - /url: /@mrdikshitnain-official
+            - generic [ref=f5e343]:
+              - generic [ref=f5e344]: Presenting the new Haryanvi song 2025 – Seet Lehar (Dekh Le) by Filmy Ft. Tanu Rawat | Real Music Seet Lehar Filmy | Dekh Le ...
+              - tooltip "tooltip"
+            - img "4K" [ref=f5e349]:
+              - generic [aria-hidden] [ref=f5e350]: 4K
+        - generic [ref=f5e352]:
+          - link [aria-hidden] [ref=f5e354] [cursor=pointer]:
+            - /url: /watch?v=_o0oY-GvGWU&list=RD_o0oY-GvGWU&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB
+          - generic [ref=f5e356] [cursor=pointer]:
+            - generic [ref=f5e357]:
+              - heading [level=3] [ref=f5e359]:
+                - link "Seet Lehar (Lofi) 3 minutes, 38 seconds" [ref=f5e360]:
+                  - /url: /watch?v=_o0oY-GvGWU&list=RD_o0oY-GvGWU&start_radio=1&pp=ygUPc2VldCBsZWhlciBzb25noAcB
+                  - text: Seet Lehar (Lofi)
+              - generic [ref=f5e361]: 674k
+            - generic [ref=f5e365]:
+              - link "Go to channel Filmy - Topic" [ref=f5e366]:
+                - /url: /channel/UCSexbWi3cSgsvWYyvN_QY6A
+              - generic [ref=f5e367]:
+                - link "Filmy" [ref=f5e371]:
+                  - /url: /channel/UCSexbWi3cSgsvWYyvN_QY6A
+                - img "Official Artist Channel" [ref=f5e376]
+            - generic [ref=f5e378]:
+              - generic [ref=f5e379]: Provided to YouTube by Real Music Production Seet Lehar (Lofi) · Filmy · Riyaazi Seet Lehar ℗ 2026 Real Music Production ...
+              - tooltip "tooltip"
+        - generic [ref=f5e381] [cursor=pointer]:
+          - link [aria-hidden] [ref=f5e382]:
+            - /url: /watch?v=tKLcFy1HDUA&list=PLMCqPWb9KvEUOFoDGcCOaaktt8Yzz-rX5
+            - generic [ref=f5e384]: 22 videos
+          - generic [ref=f5e397]:
+            - heading "Sheet lahar haryanvi songs playlist 2026" [level=3] [ref=f5e398]:
+              - link "Sheet lahar haryanvi songs playlist 2026" [ref=f5e399]:
+                - /url: /watch?v=tKLcFy1HDUA&list=PLMCqPWb9KvEUOFoDGcCOaaktt8Yzz-rX5
+            - generic [ref=f5e401]:
+              - group [ref=f5e402]:
+                - link "Sumitra Sharma" [ref=f5e405]:
+                  - /url: /@SumitraSharma23
+                - link "Playlist" [ref=f5e408]:
+                  - /url: /@SumitraSharma23
+              - group [ref=f5e409]
+              - group [ref=f5e410]:
+                - link "Seet Lehar (Official Video) - Filmy ft. Tanu Rawat | Haryanvi Song | Real Music · 3:31" [ref=f5e412]:
+                  - /url: /watch?v=tKLcFy1HDUA&list=PLMCqPWb9KvEUOFoDGcCOaaktt8Yzz-rX5
+              - group [ref=f5e413]:
+                - link "Jaat Intro · 2:33" [ref=f5e415]:
+                  - /url: /watch?v=tZGPtLyB1Ms&list=PLMCqPWb9KvEUOFoDGcCOaaktt8Yzz-rX5
+              - group [ref=f5e416]:
+                - link "View full playlist" [ref=f5e419]:
+                  - /url: /playlist?list=PLMCqPWb9KvEUOFoDGcCOaaktt8Yzz-rX5
+              - group [ref=f5e420]:
+                - generic [ref=f5e421]: haryanvi song
